@@ -1,0 +1,4 @@
+requests
+ipywidgets
+IPython
+openai
